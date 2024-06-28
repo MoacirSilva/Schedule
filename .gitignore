@@ -5,3 +5,4 @@
 /.vs/Schedule/FileContentIndex
 /packages
 /Schedule/App_data/ScheduleDb.mdf
+/Schedule/App_data/ScheduleDb_log.ldf
