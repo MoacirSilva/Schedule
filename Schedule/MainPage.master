@@ -11,11 +11,38 @@
 </head>
 <body>
     <form id="form1" runat="server">
-    <div>
-        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        <header>
+            <h1>
+                Agenda Web
+            </h1>
+            <asp:Menu ID="Menu1" runat="server" BackColor="#F7F6F3" DynamicHorizontalOffset="2" Font-Names="Verdana" Font-Size="Medium" ForeColor="#7C6F57" Orientation="Horizontal" StaticSubMenuIndent="10px">
+                <DynamicHoverStyle BackColor="#7C6F57" ForeColor="White" />
+                <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                <DynamicMenuStyle BackColor="#F7F6F3" />
+                <DynamicSelectedStyle BackColor="#5D7B9D" />
+                <Items>
+                    <asp:MenuItem Text="Usuario" Value="Usuario"></asp:MenuItem>
+                    <asp:MenuItem Text="Contato" Value="Contato"></asp:MenuItem>
+                    <asp:MenuItem Text="Sair" Value="Sair"></asp:MenuItem>
+                </Items>
+                <StaticHoverStyle BackColor="#7C6F57" ForeColor="White" />
+                <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                <StaticSelectedStyle BackColor="#5D7B9D" />
+            </asp:Menu>
+        </header>
         
-        </asp:ContentPlaceHolder>
-    </div>
+        <main>
+             <div>
+                <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+     
+                </asp:ContentPlaceHolder>
+             </div>
+        </main>
+        <footer>
+            <p>
+                Site desenvolvido por Mowashiro
+            </p>
+        </footer>
     </form>
 </body>
 </html>
