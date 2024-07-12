@@ -21,7 +21,8 @@
                 <DynamicMenuStyle BackColor="#F7F6F3" />
                 <DynamicSelectedStyle BackColor="#5D7B9D" />
                 <Items>
-                    <asp:MenuItem Text="Usuario" Value="Usuario"></asp:MenuItem>
+                    <asp:MenuItem NavigateUrl="~/index.aspx" Text="Home" Value="Home"></asp:MenuItem>
+                    <asp:MenuItem Text="Usuario" Value="Usuario" NavigateUrl="~/usuarios.aspx"></asp:MenuItem>
                     <asp:MenuItem Text="Contato" Value="Contato"></asp:MenuItem>
                     <asp:MenuItem Text="Sair" Value="Sair"></asp:MenuItem>
                 </Items>
