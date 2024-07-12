@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\maste\\source\\repos\\Schedule\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7554F971-813F-4A24-A2FF-88DB8D09510D}|C:\\Users\\maste\\source\\repos\\Schedule\\Schedule|c:\\users\\maste\\source\\repos\\schedule\\schedule\\usuarios.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7554F971-813F-4A24-A2FF-88DB8D09510D}|C:\\Users\\maste\\source\\repos\\Schedule\\Schedule|solutionrelative:schedule\\usuarios.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7554F971-813F-4A24-A2FF-88DB8D09510D}|C:\\Users\\maste\\source\\repos\\Schedule\\Schedule|C:\\Users\\maste\\source\\repos\\Schedule\\schedule\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7554F971-813F-4A24-A2FF-88DB8D09510D}|C:\\Users\\maste\\source\\repos\\Schedule\\Schedule|solutionrelative:schedule\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7554F971-813F-4A24-A2FF-88DB8D09510D}|C:\\Users\\maste\\source\\repos\\Schedule\\Schedule|c:\\users\\maste\\source\\repos\\schedule\\schedule\\usuarios.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7554F971-813F-4A24-A2FF-88DB8D09510D}|C:\\Users\\maste\\source\\repos\\Schedule\\Schedule|solutionrelative:schedule\\usuarios.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7554F971-813F-4A24-A2FF-88DB8D09510D}|C:\\Users\\maste\\source\\repos\\Schedule\\Schedule|c:\\users\\maste\\source\\repos\\schedule\\schedule\\mainpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{7554F971-813F-4A24-A2FF-88DB8D09510D}|C:\\Users\\maste\\source\\repos\\Schedule\\Schedule|solutionrelative:schedule\\mainpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7554F971-813F-4A24-A2FF-88DB8D09510D}|C:\\Users\\maste\\source\\repos\\Schedule\\Schedule|c:\\users\\maste\\source\\repos\\schedule\\schedule\\mainpage.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7554F971-813F-4A24-A2FF-88DB8D09510D}|C:\\Users\\maste\\source\\repos\\Schedule\\Schedule|solutionrelative:schedule\\mainpage.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7554F971-813F-4A24-A2FF-88DB8D09510D}|C:\\Users\\maste\\source\\repos\\Schedule\\Schedule|c:\\users\\maste\\source\\repos\\schedule\\schedule\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{7554F971-813F-4A24-A2FF-88DB8D09510D}|C:\\Users\\maste\\source\\repos\\Schedule\\Schedule|solutionrelative:schedule\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +26,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "usuarios.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\source\\repos\\Schedule\\Schedule\\usuarios.aspx.cs",
+              "RelativeDocumentMoniker": "Schedule\\usuarios.aspx.cs",
+              "ToolTip": "C:\\Users\\maste\\source\\repos\\Schedule\\Schedule\\usuarios.aspx.cs",
+              "RelativeToolTip": "Schedule\\usuarios.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T00:15:17.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "usuarios.aspx",
+              "DocumentMoniker": "C:\\Users\\maste\\source\\repos\\Schedule\\Schedule\\usuarios.aspx",
+              "RelativeDocumentMoniker": "Schedule\\usuarios.aspx",
+              "ToolTip": "C:\\Users\\maste\\source\\repos\\Schedule\\Schedule\\usuarios.aspx",
+              "RelativeToolTip": "Schedule\\usuarios.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-12T00:06:06.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "index.aspx",
               "DocumentMoniker": "C:\\Users\\maste\\source\\repos\\Schedule\\Schedule\\index.aspx",
               "RelativeDocumentMoniker": "Schedule\\index.aspx",
@@ -39,28 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainPage.master.cs",
-              "DocumentMoniker": "C:\\Users\\maste\\source\\repos\\Schedule\\Schedule\\MainPage.master.cs",
-              "RelativeDocumentMoniker": "Schedule\\MainPage.master.cs",
-              "ToolTip": "C:\\Users\\maste\\source\\repos\\Schedule\\Schedule\\MainPage.master.cs",
-              "RelativeToolTip": "Schedule\\MainPage.master.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T19:50:57.35Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MainPage.master",
               "DocumentMoniker": "C:\\Users\\maste\\source\\repos\\Schedule\\Schedule\\MainPage.master",
               "RelativeDocumentMoniker": "Schedule\\MainPage.master",
